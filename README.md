@@ -1,1 +1,1 @@
-# Remove_Background
+# The code presents a Graphical User Interface (GUI) application developed in Python using the Tkinter library. Tkinter facilitates the creation of desktop applications with a simple and intuitive interface. This particular application allows users to manipulate images by removing their backgrounds, adding new backgrounds, and saving the processed images.
